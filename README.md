@@ -28,7 +28,7 @@ Create a file (name it `nations.txt` for example), and populate it with pairs of
 
 Example:
 ```
-testlandia,1234
+test,1234
 example,password
 nation,correctHorseBatteryStaple
 ```
